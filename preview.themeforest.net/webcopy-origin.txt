@@ -1,0 +1,44 @@
+Uri: https://preview.themeforest.net/item/fixoria-computer-repair-services-html5-template/full_screen_preview/30592825?_ga=2.64683951.1099844758.1642484242-2045278950.1642484242&_gac=1.128108286.1642484242.CjwKCAiAxJSPBhAoEiwAeO_fP-b6On8xeZp7iMPcg85-FCtP4dxJt9oHnhLIpY_XVDmuYI2uNyWIsRoCJ0kQAvD_BwE
+File Name: C:\Downloaded Web Sites\preview.themeforest.net\item\fixoria-computer-repair-services-html5-template\full_screen_preview\30592825.html
+Content Type: text/html
+
+Uri: https://public-assets.envato-static.com/assets/market/core/index-e550a8dcc22eeb8ff22f1101f8fd279bc28e863b5b9810b434572a017ea0f17b.css
+File Name: C:\Downloaded Web Sites\preview.themeforest.net\assets\market\core\index-e550a8dcc22eeb8ff22f1101f8fd279bc28e863b5b9810b434572a017ea0f17b.css
+Content Type: text/css
+
+Uri: https://public-assets.envato-static.com/assets/market/pages/preview/index-004d35cdd5d555cdd3e956d1b916825642de06529f0fe91fd9f390813761d2fc.css
+File Name: C:\Downloaded Web Sites\preview.themeforest.net\assets\market\pages\preview\index-004d35cdd5d555cdd3e956d1b916825642de06529f0fe91fd9f390813761d2fc.css
+Content Type: text/css
+
+Uri: https://public-assets.envato-static.com/icons/themeforest.net/apple-touch-icon-72x72-precomposed.png
+File Name: C:\Downloaded Web Sites\preview.themeforest.net\icons\themeforest.net\apple-touch-icon-72x72-precomposed.png
+Content Type: image/png
+
+Uri: https://public-assets.envato-static.com/icons/themeforest.net/apple-touch-icon-114x114-precomposed.png
+File Name: C:\Downloaded Web Sites\preview.themeforest.net\icons\themeforest.net\apple-touch-icon-114x114-precomposed.png
+Content Type: image/png
+
+Uri: https://public-assets.envato-static.com/icons/themeforest.net/apple-touch-icon-144x144-precomposed.png
+File Name: C:\Downloaded Web Sites\preview.themeforest.net\icons\themeforest.net\apple-touch-icon-144x144-precomposed.png
+Content Type: image/png
+
+Uri: https://public-assets.envato-static.com/icons/themeforest.net/apple-touch-icon-precomposed.png
+File Name: C:\Downloaded Web Sites\preview.themeforest.net\icons\themeforest.net\apple-touch-icon-precomposed.png
+Content Type: image/png
+
+Uri: https://themeforest.net/item/fixoria-computer-repair-services-html5-template/30592825
+File Name: C:\Downloaded Web Sites\preview.themeforest.net\item\fixoria-computer-repair-services-html5-template\30592825.html
+Content Type: text/html
+
+Uri: https://public-assets.envato-static.com/assets/market/pages/full_screen_preview/index-3434ecc8ee72db55dde518bd4f2a3f85d6c73b0dde839027aaedb790e40a4beb.js
+File Name: C:\Downloaded Web Sites\preview.themeforest.net\assets\market\pages\full_screen_preview\index-3434ecc8ee72db55dde518bd4f2a3f85d6c73b0dde839027aaedb790e40a4beb.js
+Content Type: application/javascript
+
+Uri: https://consent.cookiebot.com/uc.js
+File Name: C:\Downloaded Web Sites\preview.themeforest.net\uc.js
+Content Type: application/javascript
+
+Uri: https://themeforest.net/checkout/83172086/create_account
+File Name: C:\Downloaded Web Sites\preview.themeforest.net\checkout\83172086\create_account.html
+Content Type: text/html
+
